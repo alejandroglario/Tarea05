@@ -7,6 +7,8 @@ package prácticaunidad3;
 
 /**
  *
+ * Esto es una prueba para ver si los cambios se modifican en GitHub.
+ * 
  * @author ED05
  */
 public class CCuenta {
